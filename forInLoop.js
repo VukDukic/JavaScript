@@ -16,3 +16,6 @@ document.write("<br />");
 document.write ("Exiting from the loop!");
 //-->
 </script>
+<p>Set the variable to different object and then try...</p>
+</body>
+</html>
